@@ -1,4 +1,4 @@
-LastUsedAvatar:JiangYu
+LastUsedAvatar:Pompom
 ShaderMode:2
 TransparencyMode:1
 AimMode:0
