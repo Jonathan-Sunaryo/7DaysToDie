@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<persistentplayerdata>
+  <player platform="EOS" userid="00027b1abcf74ee5a2a55a8ed0e68754" nativeplatform="Steam" nativeuserid="76561198146901369" playername="Fortisia" lastlogin="2024-05-06 00:12:53" position="-544,61,446">
+    <acl platform="EOS" userid="000211182a19446a987b54c3220e8bf7" />
+    <acl platform="EOS" userid="0002b41234eb4fdcbcb39bb0c38d074d" />
+    <acl platform="EOS" userid="00023d394007493fbb3d4a917555f04c" />
+    <lpblock pos="-553,61,555" />
+    <bedroll pos="-543,61,443" />
+    <questpositions>
+      <position id="596152789" positiondatatype="0" pos="-544,66,484" />
+      <position id="596152789" positiondatatype="2" pos="278,71,-244" />
+    </questpositions>
+  </player>
+  <player platform="EOS" userid="0002b41234eb4fdcbcb39bb0c38d074d" nativeplatform="Steam" nativeuserid="76561199222302679" playername="ExceedAccel" lastlogin="2024-05-06 00:12:53" position="-544,61,468">
+    <acl platform="EOS" userid="00027b1abcf74ee5a2a55a8ed0e68754" />
+    <acl platform="EOS" userid="000211182a19446a987b54c3220e8bf7" />
+    <acl platform="EOS" userid="00023d394007493fbb3d4a917555f04c" />
+    <bedroll pos="-543,65,447" />
+    <questpositions>
+      <position id="-1937403309" positiondatatype="2" pos="278,71,-244" />
+      <position id="-1937403309" positiondatatype="0" pos="-544,66,484" />
+    </questpositions>
+  </player>
+  <player platform="EOS" userid="000211182a19446a987b54c3220e8bf7" nativeplatform="Steam" nativeuserid="76561198081766380" playername="Me and Gigachads" lastlogin="2024-05-06 00:12:53" position="-540,65,445">
+    <acl platform="EOS" userid="00027b1abcf74ee5a2a55a8ed0e68754" />
+    <acl platform="EOS" userid="0002b41234eb4fdcbcb39bb0c38d074d" />
+    <acl platform="EOS" userid="00023d394007493fbb3d4a917555f04c" />
+  </player>
+  <player platform="EOS" userid="00023d394007493fbb3d4a917555f04c" nativeplatform="Steam" nativeuserid="76561198053312574" playername="Siftben" lastlogin="2024-05-06 00:12:53" position="-549,61,449">
+    <acl platform="EOS" userid="00027b1abcf74ee5a2a55a8ed0e68754" />
+    <acl platform="EOS" userid="0002b41234eb4fdcbcb39bb0c38d074d" />
+    <acl platform="EOS" userid="000211182a19446a987b54c3220e8bf7" />
+    <bedroll pos="-545,61,443" />
+  </player>
+</persistentplayerdata>
