@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <persistentplayerdata>
-  <player platform="EOS" userid="00027b1abcf74ee5a2a55a8ed0e68754" nativeplatform="Steam" nativeuserid="76561198146901369" playername="Fortisia" lastlogin="2024-05-07 00:11:04" position="307,73,-181">
+  <player platform="EOS" userid="00027b1abcf74ee5a2a55a8ed0e68754" nativeplatform="Steam" nativeuserid="76561198146901369" playername="Fortisia" lastlogin="2024-05-07 22:04:06" position="326,61,81">
     <acl platform="EOS" userid="000211182a19446a987b54c3220e8bf7" />
     <acl platform="EOS" userid="0002b41234eb4fdcbcb39bb0c38d074d" />
     <acl platform="EOS" userid="00023d394007493fbb3d4a917555f04c" />
@@ -11,44 +11,50 @@
       <position id="-2128582044" positiondatatype="0" pos="329,76,-230" />
       <position id="-592457369" positiondatatype="2" pos="566,53,-8" />
       <position id="-592457369" positiondatatype="0" pos="329,76,-230" />
-      <position id="-7946540" positiondatatype="2" pos="290,59,60" />
-      <position id="-7946540" positiondatatype="0" pos="329,76,-230" />
       <position id="-1570384083" positiondatatype="2" pos="290,59,60" />
       <position id="-1570384083" positiondatatype="0" pos="329,76,-230" />
+      <position id="-1570384083" positiondatatype="7" pos="321,61,99" />
     </questpositions>
   </player>
-  <player platform="EOS" userid="0002b41234eb4fdcbcb39bb0c38d074d" nativeplatform="Steam" nativeuserid="76561199222302679" playername="ExceedAccel" lastlogin="2024-05-07 00:11:04" position="268,73,-221">
+  <player platform="EOS" userid="0002b41234eb4fdcbcb39bb0c38d074d" nativeplatform="Steam" nativeuserid="76561199222302679" playername="ExceedAccel" lastlogin="2024-05-07 22:04:06" position="319,61,99">
     <acl platform="EOS" userid="00027b1abcf74ee5a2a55a8ed0e68754" />
     <acl platform="EOS" userid="000211182a19446a987b54c3220e8bf7" />
     <acl platform="EOS" userid="00023d394007493fbb3d4a917555f04c" />
     <bedroll pos="314,73,-261" />
     <questpositions>
-      <position id="-2128582044" positiondatatype="2" pos="479,60,148" />
-      <position id="-2128582044" positiondatatype="0" pos="329,76,-230" />
-      <position id="-592457369" positiondatatype="2" pos="566,53,-8" />
-      <position id="-592457369" positiondatatype="0" pos="329,76,-230" />
-      <position id="-7946540" positiondatatype="2" pos="290,59,60" />
-      <position id="-7946540" positiondatatype="0" pos="329,76,-230" />
       <position id="-1570384083" positiondatatype="0" pos="329,76,-230" />
       <position id="-1570384083" positiondatatype="2" pos="290,59,60" />
+      <position id="-2128582044" positiondatatype="2" pos="479,60,148" />
+      <position id="-2128582044" positiondatatype="0" pos="329,76,-230" />
+      <position id="-7946540" positiondatatype="2" pos="290,59,60" />
+      <position id="-7946540" positiondatatype="0" pos="329,76,-230" />
+      <position id="-592457369" positiondatatype="2" pos="566,53,-8" />
+      <position id="-592457369" positiondatatype="0" pos="329,76,-230" />
+      <position id="-1570384083" positiondatatype="7" pos="321,61,99" />
+      <position id="-7946540" positiondatatype="7" pos="321,61,99" />
+      <position id="-7946540" positiondatatype="5" pos="312,68,93" />
     </questpositions>
   </player>
-  <player platform="EOS" userid="000211182a19446a987b54c3220e8bf7" nativeplatform="Steam" nativeuserid="76561198081766380" playername="Me and Gigachads" lastlogin="2024-05-07 00:11:04" position="309,73,-259">
+  <player platform="EOS" userid="000211182a19446a987b54c3220e8bf7" nativeplatform="Steam" nativeuserid="76561198081766380" playername="Me and Gigachads" lastlogin="2024-05-07 22:04:06" position="314,62,75">
     <acl platform="EOS" userid="00027b1abcf74ee5a2a55a8ed0e68754" />
     <acl platform="EOS" userid="0002b41234eb4fdcbcb39bb0c38d074d" />
     <acl platform="EOS" userid="00023d394007493fbb3d4a917555f04c" />
+    <bedroll pos="313,73,-261" />
     <questpositions>
-      <position id="-2128582044" positiondatatype="2" pos="479,60,148" />
-      <position id="-2128582044" positiondatatype="0" pos="329,76,-230" />
       <position id="-592457369" positiondatatype="2" pos="566,53,-8" />
       <position id="-592457369" positiondatatype="0" pos="329,76,-230" />
+      <position id="-2128582044" positiondatatype="2" pos="479,60,148" />
+      <position id="-2128582044" positiondatatype="0" pos="329,76,-230" />
       <position id="-7946540" positiondatatype="2" pos="290,59,60" />
       <position id="-7946540" positiondatatype="0" pos="329,76,-230" />
       <position id="-1570384083" positiondatatype="2" pos="290,59,60" />
       <position id="-1570384083" positiondatatype="0" pos="329,76,-230" />
+      <position id="-7946540" positiondatatype="7" pos="321,61,99" />
+      <position id="-1570384083" positiondatatype="7" pos="321,61,99" />
+      <position id="-7946540" positiondatatype="5" pos="309,62,66" />
     </questpositions>
   </player>
-  <player platform="EOS" userid="00023d394007493fbb3d4a917555f04c" nativeplatform="Steam" nativeuserid="76561198053312574" playername="Siftben" lastlogin="2024-05-07 00:11:04" position="313,73,-259">
+  <player platform="EOS" userid="00023d394007493fbb3d4a917555f04c" nativeplatform="Steam" nativeuserid="76561198053312574" playername="Siftben" lastlogin="2024-05-07 22:04:06" position="324,61,70">
     <acl platform="EOS" userid="00027b1abcf74ee5a2a55a8ed0e68754" />
     <acl platform="EOS" userid="0002b41234eb4fdcbcb39bb0c38d074d" />
     <acl platform="EOS" userid="000211182a19446a987b54c3220e8bf7" />
@@ -62,6 +68,9 @@
       <position id="-592457369" positiondatatype="0" pos="329,76,-230" />
       <position id="-1570384083" positiondatatype="2" pos="290,59,60" />
       <position id="-1570384083" positiondatatype="0" pos="329,76,-230" />
+      <position id="-7946540" positiondatatype="7" pos="321,61,99" />
+      <position id="-1570384083" positiondatatype="7" pos="321,61,99" />
+      <position id="-7946540" positiondatatype="5" pos="304,64,91" />
     </questpositions>
   </player>
 </persistentplayerdata>

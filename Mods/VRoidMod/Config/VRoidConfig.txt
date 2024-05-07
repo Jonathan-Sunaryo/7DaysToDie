@@ -7,5 +7,5 @@ HelmetMode:0
 EyeWearMode:0
 SpringBonesMode:1
 VRoidEnabled:1
-VRoidFPV:1
+VRoidFPV:0
 VoiceOverride:0
