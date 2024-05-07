@@ -1,4 +1,4 @@
-LastUsedAvatar:MCQueenFBX.blend
+LastUsedAvatar:Kirara blonde hair
 ShaderMode:2
 TransparencyMode:1
 AimMode:0
@@ -7,5 +7,5 @@ HelmetMode:0
 EyeWearMode:0
 SpringBonesMode:1
 VRoidEnabled:1
-VRoidFPV:0
+VRoidFPV:1
 VoiceOverride:0
